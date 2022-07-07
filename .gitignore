@@ -1,0 +1,3 @@
+config/pdns/pdns.d/bind.conf
+config/pdns/named.conf
+.vagrant/
